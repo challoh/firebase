@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496023976532",
+    "firebase_url": "https://javashop3-cdd11.firebaseio.com",
+    "project_id": "javashop3-cdd11",
+    "storage_bucket": "javashop3-cdd11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496023976532:android:76ce7c762ad1fc77dd4bc1",
+        "android_client_info": {
+          "package_name": "com.example.myshop3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496023976532-0v6krturup7dpob3k6fsvup06idjdt79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wQJ1tfav7aYGasnI-TX9ZbbqrRrPo9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496023976532-0v6krturup7dpob3k6fsvup06idjdt79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
